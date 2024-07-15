@@ -1,0 +1,15 @@
+2024-07-15 15:13:31 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\LENOVO-T440s\eclipse-workspace\Project1\testng.xml] otherwise TestNG may fail or not work as expected.
+2024-07-15 15:13:37 INFO  Registration:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-15 15:13:38 INFO  Registration:28 - ************starting registration********
+2024-07-15 15:55:02 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\LENOVO-T440s\eclipse-workspace\Project1\testng.xml] otherwise TestNG may fail or not work as expected.
+2024-07-15 15:55:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\LENOVO-T440s\eclipse-workspace\Project1\testng.xml
+
+2024-07-15 15:55:08 INFO  Registration:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-15 15:55:09 INFO  Registration:28 - ************starting registration********
+2024-07-15 15:56:18 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\LENOVO-T440s\eclipse-workspace\Project1\testng.xml] otherwise TestNG may fail or not work as expected.
+2024-07-15 15:56:22 INFO  Registration:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-15 15:56:24 INFO  Registration:28 - ************starting registration********
+2024-07-15 17:32:24 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\LENOVO-T440s\eclipse-workspace\Project1\testng.xml] otherwise TestNG may fail or not work as expected.
+2024-07-15 17:32:32 INFO  Registration:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-15 17:32:34 INFO  Registration:28 - ************starting registration********
